@@ -1,3 +1,32 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#Golden steps
+
+1. run "npm install" to install all the dependences
+
+2. Separate "todo_app_react_java_backend" folder and "run" it on "eclipse" this will enable communication between BACKEND(Java_spring_boot) and React as Frontend
+
+PROJECT GOAL
+It enable ability to be Create, Update, Delete any todo on the UI .
+STACK USED
+- React - Frontend
+- Java - Backend
+- BootStrap
+- Moment
+_ Formik
+- Axios
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
